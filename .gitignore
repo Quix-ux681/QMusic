@@ -1,3 +1,7 @@
 .venv/
 sources/local/
 Music Player Feature List.md
+.idea/
+.venv/
+.vscode/
+__pycache__/
